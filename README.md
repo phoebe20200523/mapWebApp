@@ -5,4 +5,4 @@ https://user-images.githubusercontent.com/65870261/206343795-5471bdb6-aa76-4e9d-
 
 1. Built a map web appliation with features of map rastering, query autocomplement, location searching, and shortest path generation.
 2. A* search algorithm was ultilized for the implement of shorted path generation
-3. Implemented the location query autocomplement with Trie
+3. Implemented the location query autocomplete feature with Trie
